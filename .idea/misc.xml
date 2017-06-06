@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Osmorc">
+    <option name="bundlesOutputPath" value="C:\Users\kgroshev\AppData\Local\Temp" />
+    <option name="frameworkInstanceName" value="Equinox (3.11.0.v20160603-1336)" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

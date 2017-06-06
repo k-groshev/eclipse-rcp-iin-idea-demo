@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="file://C:/Symtavision/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Symtavision/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Symtavision/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" />
+    <jarDirectory url="file://C:/Symtavision/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" type="SOURCES" />
+  </library>
+</component>
